@@ -1,4 +1,4 @@
-import { caracteristicas } from "../constants";
+import { caracteristicas } from '../constants';
 
 export const FeatureSection = () => {
   return (
