@@ -5,10 +5,10 @@ export const HeroSection = () => {
   return (
     <div className="flex flex-col items-center mt-6 lg:mt-20">
       <h2 className="text-4xl-sm:text-6xl lg:text-7xl text-center tracking-wide">
-        Compra con las 3 B's:
+        Construye herramientas
         <span className="bg-gradient-to-r from-indigo-500 to-indigo-800 text-transparent bg-clip-text">
           {" "}
-          Bueno, Bonito y Barato
+          para desarrolladores
         </span>
       </h2>
       <p className="mt-10 text-lg text-center text-neutral-500 max-w-4xl">
